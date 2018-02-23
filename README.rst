@@ -36,13 +36,13 @@ This application uses private package called ``systeminfo``. This package is a p
 
 1. Install ``systeminfo`` by executing the following command::
         
-        pip install git+https://github.com/harshrpg/COMP30670_CookieCutter.git
+        pip install git+https://github.com/harshrpg/systeminfo.git
 
 
 
 2. Install this app from this repository::
 
-        pip install git+https://git@github.com/harshrpg/COMP30670_FlaskSI.git
+        pip install git+https://git@github.com/harshrpg/systeminfo_flask.git
 
 3. Once installation is complete, simply execute the command ``getPlatformInfo``::  
       
