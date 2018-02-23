@@ -32,7 +32,7 @@ setup(
     author="Harsh Gupta",
     author_email='harsh.gupta@ucdconnect.ie',
     url='https://github.com/harshrpg/systeminfo_flask',
-    packages=find_packages(),
+    packages=['app'],
     entry_points={
         'console_scripts': [
             'getPlatformInfo=app.run:main',
